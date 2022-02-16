@@ -105,7 +105,7 @@ a {
   text-decoration: none;
   background-color: transparent; }
   a:hover {
-    color: #0E282B;
+    color: #265a56;
     text-decoration: underline; }
 
 a:not([href]):not([tabindex]) {
